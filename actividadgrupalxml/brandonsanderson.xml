@@ -1,0 +1,48 @@
+<?xml-model href="brandonsanderson.dtd" type="application/xml-dtd"?>
+
+<brandonsanderson xmlns:ctv="http://www.sanderson.com/cytoverse" xmlns:csm="http://www.sanderson.com/cosmere">
+    <cosmere>
+        <csm:books saga="Elantris">
+            <years age="First">
+                <book>Elantris 1</book>
+            </years>
+        </books>
+        <csm:books saga="Mistborn">
+            <years age="First">
+                <book>The Final Empire</book>
+                <book>The Well of Ascension</book>
+                <book>The Hero of Ages</book>
+            </years>
+            <years age="Second">
+                <book>Alloy of Law</book>
+                <book>Shadows of Identity</book>
+                <book>The Bands of Mourning</book>
+                <book>The Lost Metal</book>
+            </years>
+        </books>
+        <csm:books saga="The Stormligh Archive">
+            <years age="First">
+                <book>The Way of Kings</book>
+                <book>Words of Radiance</book>
+                <book>Oathbringer</book>
+                <book>Rhythm of War</book>
+                <book>Kings of Wind and Truth</book>
+            </years>
+        </books>
+        <csm:books saga="Warbreaker">
+            <years age="First">
+                <book>Warbreaker 1</book>
+            </years>
+        </books>
+    </cosmere>
+    <cytoverse>
+        <ctv:books saga="Skyward">
+            <book>The Defense of Elysium</book>
+            <book>Skyward</book>
+            <book>Starsight</book>
+            <book>Cytonic</book>
+            <book>Skyward Flight</book>
+            <book>Defiant</book>
+        </books>
+    </cytoverse>
+</brandonsanderson>

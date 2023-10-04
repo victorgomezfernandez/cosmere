@@ -1,0 +1,7 @@
+<!ELEMENT brandonsanderson (cosmere)>
+<!ELEMENT cosmere (books+)>
+<!ELEMENT books (years+)>
+<!ATTLIST books saga CDATA #REQUIRED>
+<!ELEMENT years (book+)>
+<!ATTLIST years age CDATA #REQUIRED>
+<!ELEMENT book (#PCDATA)>
